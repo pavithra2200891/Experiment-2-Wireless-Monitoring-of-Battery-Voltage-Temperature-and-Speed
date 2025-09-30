@@ -89,14 +89,9 @@ end
 
 disp('Simulation Complete (No COM Port Needed).');
 
-
-
-
 ## Graphical Output:
-<img width="564" height="513" alt="image" src="https://github.com/user-attachments/assets/b6bdf356-e86f-493c-88c9-2dcfaaba8ea5" />
+<img width="564" height="513" alt="image" src="https://github.com/user-attachments/assets/b6bdf356-e86f-493c-88c9-2dcfaaba8ea5" /> 
 
-
- 
 ## Results:
 The MATLAB program successfully receives and visualizes real-time battery voltage, temperature, and speed data from the embedded system using wireless communication.
 
